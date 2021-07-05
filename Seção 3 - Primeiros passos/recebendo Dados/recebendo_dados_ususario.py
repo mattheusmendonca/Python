@@ -50,7 +50,7 @@ EXEMPLO:
     parenteses
  
 """
-print(f'O {nome} nasceu em {2021 - int(idade)}\n')
+print(f'O {nome} nasceu em {2021 - idade}\n')
 
 
 
