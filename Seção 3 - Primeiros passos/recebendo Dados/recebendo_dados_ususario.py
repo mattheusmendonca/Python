@@ -30,7 +30,7 @@ idade = int(input('Qual sua idade? \n'))
 
 """
 
-
+  
 #exemplo de print mais atual
 print(f'\nSeja Bem-vindo {nome}') #esse f na frente é de formatação, como se fosse de format
 print(f'O(A) {nome} tem {idade} anos de idade!')
