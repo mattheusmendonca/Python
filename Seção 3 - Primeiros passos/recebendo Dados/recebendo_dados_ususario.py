@@ -10,9 +10,9 @@ nome = input('Qual seu nome? \n')
 #tbm ja posso fazer o casting aqui, dessa forma:
 
 #idade = input('Qual sua idade? \n')
-idade = int(input('Qual sua idade? \n'))
+idade =  int(input('Qual sua idade? \n'))
 
-#Input -> Entrada 
+#Input -> Entr  ada 
 #recebe esse nome 
 
 #saida antiga python 2.x
